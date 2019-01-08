@@ -1,0 +1,26 @@
+1) i)	cd
+   ii)	mkdir folderA
+	cat > a.txt, type something and ctrl-d
+   iii)	drwxr-xr-x for folderA
+	-rw-r--r-- for a.txt
+   iv)	first one -> owner able to read write execute, group able to read write, other able to 		execute
+	second one -> owner able to read write execute, group able to read, other able to read and 		execute
+
+2) i)	cd folderA
+   ii)	cp ~/a.txt ~/folderA
+   iii)	rm ~/a.txt
+   iv) 	mkdir folderB
+
+3) i)	cd
+   ii)	chmod 600 folderA
+   iii)	no
+
+4) i)	cp -R folderA folderClone
+   ii)	mv index.html folderClone
+
+5) i)	cd folderA
+	rm a.txt
+	rmdir folderB
+	cd
+   ii)	ls folderA
+   iii) rmdir folderA

@@ -1,0 +1,24 @@
+1) head -n 23 test.txt | tail -1
+
+2) mkdir question3, PATH="$PATH:$HOME/question3", echo $PATH, ease to run script forexample adding python directory to $PATH enable user to do python script.py
+
+3) find . -maxdepth 1 -type f
+
+4) 43 15 3,10,17,24 * * touch update.txt
+
+5) mkdir A3tmp
+   man find
+   cd /var/log
+   find . -type f -name "s*" -print > ~/logerror.txt
+
+6) ls | grep "^a.*\.gz" | wc -l which nets 63
+   ls -l | grep "^l" and count there is only 9 of them
+
+7) 99171 words
+   99171 lines
+   938848 characters/bytes
+
+   there only one word per line in words
+
+   sed -n -e '300,500p' words > ~/300-500.txt
+   sed -n -e '700,800p' words > ~/700-800.txt

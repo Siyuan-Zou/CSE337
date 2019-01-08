@@ -1,0 +1,2 @@
+(be or not to be|to be to be|to be to be to be|to be to be to be to be)
+([a-z]*[!\?]{2}|[a-z]*)

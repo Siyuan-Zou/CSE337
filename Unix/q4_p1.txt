@@ -1,0 +1,14 @@
+Current Shell is: /bin/bash
+Current directory is: /home/spirors/test
+Home directory is: /home/spirors
+ 
+—5 most recently modified non-empty subdirectories—
+./Untitled Folder 5
+./Untitled Folder 4
+./Untitled Folder 6
+./Untitled Folder 3
+./Untitled Folder
+ 
+—Files in last 45 minutes
+ 
+======================================================================

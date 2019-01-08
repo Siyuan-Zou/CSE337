@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block body %}    
+    <h1>Submit new Text</h1>
+    <form action="" method="post">
+	{{ form.hidden_tag() }}
+	<p>
+	    Text<br>
+            {{ form.text(cols="60", rows="25") }}
+        </p>
+        <p>
+            {{ form.options }}
+        </p>
+        <p>
+            delimiter: {{ form.delimiter(cols="35", rows="20") }}
+        </p>
+        <p>
+            {{ form.submit() }}
+        </p>
+    </form>
+{% endblock %}

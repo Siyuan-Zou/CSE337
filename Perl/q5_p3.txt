@@ -1,0 +1,29 @@
+[-+]?\d*(\.\D+)?F\s
+Matched
++111.ddF 
++141.ddF 
++121.ddF 
+Dont Match
+0
+1
+2
+
+(#?)(1?)(one)\1\2\3
+Matched
+#1one#1one
+#one#one
+oneone
+Dont Match
+1
+2
+3
+
+((a*?)\b).*\w\2\1
+Matched
+a
+b
+c
+Dont Match
+!
+@
+#

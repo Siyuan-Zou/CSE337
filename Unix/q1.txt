@@ -1,0 +1,19 @@
+1) i)	/bin/tcsh
+   ii)	bash
+   iii)	exit
+
+2) i)	March 28 2027
+   ii)	cal June 2018 -B23
+   iii) ncal -w Jan 2018 -A5
+
+3) i) 	cat > file1.txt then type "hello world" and Ctrl-d to save and exit
+      	touch file2.txt then echo 'hello world' > file2.txt
+   ii)	wget "http://stonybrook.edu" -O index.html
+
+4) i)	/home/cou/cse337/students/siyzou/file1.txt
+	/home/cou/cse337/students/siyzou/file2.txt
+	/home/cou/cse337/students/siyzou/index.html
+   ii)	/curr_dir/home/.../file1.txt
+	/curr_dir/home/.../file2.txt
+	/curr_dir/home/.../index.html
+	#question was weird
